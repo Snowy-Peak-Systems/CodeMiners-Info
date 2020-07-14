@@ -1,5 +1,5 @@
 # CodeMiners-Issues
-Issue-tracking repository for Code Miners Minecraft server
+Issue-tracking repository for CodeMiners Minecraft server. For more information and updates about our Minecraft server, please see https://codeminers.snowypeaksystems.com and [Snowy-Peak-Systems/CodeMiners-Site](https://github.com/Snowy-Peak-Systems/CodeMiners-Site).
 
 [To report a bug](https://github.com/Snowy-Peak-Systems/CodeMiners-Issues/issues/new?assignees=leviem1&labels=bug&template=bug_report.md)  
-[To request a feature](https://github.com/Snowy-Peak-Systems/CodeMiners-Issues/issues/new?assignees=leviem1&labels=enhancement&template=feature_request.md)
+[To request a feature](https://github.com/Snowy-Peak-Systems/CodeMiners-Issues/issues/new?labels=enhancement&template=feature_request.md)
