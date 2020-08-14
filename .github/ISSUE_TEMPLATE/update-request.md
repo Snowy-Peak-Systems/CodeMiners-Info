@@ -1,7 +1,7 @@
 ---
 name: Update request
 about: Request that the server or a plugin be updated
-title: ''
+title: Update [PLUGIN NAME HERE]
 labels: update
 assignees: ''
 
@@ -14,5 +14,5 @@ A clear and concise description of what the problem is. Ex. I'm always frustrate
  - Name: [e.g. PlotSquared]
  - Plugin Page: [e.g. https://www.spigotmc.org/resources/plotsquared-v5.77506/]
 
-**Describe alternatives if applicable**
+**Describe alternatives (if applicable)**
 A clear and concise description of any alternative solutions or features you've considered.
