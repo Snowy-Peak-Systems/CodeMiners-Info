@@ -1,6 +1,10 @@
 # CodeMiners Information Hub
 Your go-to for information about the CodeMiners Minecraft server!
 
+## Server Info
+**Address:** codeminers.us  
+**Version:** 1.16.1 (Supports all 1.16.x clients)
+
 ## CodeMiners Wiki
 To help keep all of our infomation organized, we've created the [CodeMiners Wiki](https://github.com/Snowy-Peak-Systems/CodeMiners-Issues/wiki)!
 
