@@ -1,0 +1,8 @@
+title: CodeMiners
+
+description: >-
+  Your go-to for information about the CodeMiners Minecraft server!
+  
+plugins:
+  - jekyll-seo-tag
+  - jekyll-readme-index
