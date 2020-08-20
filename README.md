@@ -1,5 +1,5 @@
 # CodeMiners Information Hub
-Information repository for the CodeMiners Minecraft server.
+Your go-to for information about the CodeMiners Minecraft server!
 
 ## CodeMiners Wiki
 To help keep all of our infomation organized, we've created the [CodeMiners Wiki](https://github.com/Snowy-Peak-Systems/CodeMiners-Issues/wiki)!
