@@ -6,3 +6,5 @@ description: >-
 plugins:
   - jekyll-seo-tag
   - jekyll-readme-index
+
+theme: jekyll-theme-slate
