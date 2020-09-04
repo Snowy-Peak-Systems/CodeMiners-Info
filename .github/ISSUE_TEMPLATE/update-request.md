@@ -1,7 +1,7 @@
 ---
 name: Update request
 about: Request that the server or a plugin be updated
-title: Update [PLUGIN NAME HERE]
+title: Update {PLUGIN NAME HERE} to {VERSION}
 labels: update
 assignees: ''
 
