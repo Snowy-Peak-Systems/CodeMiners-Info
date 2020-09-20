@@ -3,7 +3,7 @@ Please read the information below to find out more about CodeMiners, our Wiki, a
 
 ## Server Info
 **Address:** codeminers.us  
-**Version:** 1.16.1 (Supports all 1.16.x clients)
+**Version:** 1.16.3 (Supports 1.16.3+ clients)
 
 ## CodeMiners Wiki
 To help keep all of our infomation organized, we've created the [CodeMiners Wiki](https://github.com/Snowy-Peak-Systems/CodeMiners-Issues/wiki)!
